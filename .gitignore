@@ -1,0 +1,11 @@
+# Test directories
+attendance_tracker_*/
+
+# Archives
+*.tar.gz
+
+# macOS
+.DS_Store
+
+# Backup files
+*.bak
